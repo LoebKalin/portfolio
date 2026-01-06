@@ -8,7 +8,7 @@
 
 
 
-## View live demo [here](httpskalinportfolio.netlify.app/).
+## View live demo [here](https://kalinportfolio.netlify.app/).
 
 ---
 
