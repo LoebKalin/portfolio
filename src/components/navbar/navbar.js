@@ -6,7 +6,6 @@ import { FaFolderOpen, FaUser } from 'react-icons/fa';
 import { HiDocumentText } from 'react-icons/hi';
 import { IoHomeSharp, IoMenuSharp } from 'react-icons/io5';
 import { MdPhone } from 'react-icons/md';
-import Fade from 'react-reveal/Fade';
 import { ThemeContext } from '../../contexts/theme-context';
 import { headerData } from '../../data/header-data';
 import styles from '../../styles/navbar.module.css';

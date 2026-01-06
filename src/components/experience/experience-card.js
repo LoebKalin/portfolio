@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import React, { useContext } from 'react';
-import Fade from 'react-reveal/Fade';
 import { motion } from "framer-motion";
 import expImgBlack from '../../assets/svg/experience/expImgBlack.svg';
 import expImgWhite from '../../assets/svg/experience/expImgWhite.svg';

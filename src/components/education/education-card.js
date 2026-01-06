@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import React, { useContext } from 'react';
-import Fade from 'react-reveal/Fade';
 import eduImgBlack from '../../assets/svg/education/eduImgBlack.svg';
 import eduImgWhite from '../../assets/svg/education/eduImgWhite.svg';
 import { ThemeContext } from '../../contexts/theme-context';

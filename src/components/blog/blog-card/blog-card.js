@@ -1,5 +1,4 @@
 import React from 'react';
-import Fade from 'react-reveal/Fade';
 import { motion } from "framer-motion";
 import placeholder from '../../../assets/png/placeholder.png';
 import styles from '../../../styles/singleBlog.module.css';
