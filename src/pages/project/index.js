@@ -33,9 +33,6 @@ function ProjectPage() {
             "&::placeholder": {
                 color: theme.tertiary,
             },
-            [t.breakpoints.down('sm')]: {
-                width: '350px',
-            },
         },
         home: {
             color: theme.secondary,
@@ -53,9 +50,6 @@ function ProjectPage() {
             {
                 color: theme.tertiary,
                 transform: 'scale(1.1)',
-            },
-            [t.breakpoints.down('sm')]: {
-                fontSize: '1.8rem',
             },
         },
     }));
